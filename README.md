@@ -11,5 +11,3 @@ I am NAZAL THANZEER V N<br>I am from Aluva<br>I am exploring my skills<br>Curren
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nassarnazal&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
